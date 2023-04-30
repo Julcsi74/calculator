@@ -1,0 +1,35 @@
+button {
+  transition: 0.2s;
+  color: #CCFFFF;
+  background: #00E6E6;
+  margin: 3px; 
+  padding: 2px; 
+  font-size: 1.5em; 
+  
+  border: 1px solid #FFF;
+
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 10px;
+  outline: none;
+  }
+  
+  button:hover {
+    color: #FFF;
+    cursor: pointer;
+    box-shadow: 0 0 0px 0.2em rgba(255, 255, 255, 0.5) inset;
+  }
+
+  .cbutton {
+    grid-column: 1 / 3;
+    background-color: rgb(18, 105, 86);
+  }
+  
+  .equals {
+    grid-column: 3 / 5;
+    background-color: rgb(18, 105, 86);
+  }
+  
+  .equals:hover {
+    background-color: rgb(18, 105, 86);
+  }

@@ -1,0 +1,13 @@
+.frame {
+  height: 325px; /* 260px */
+  max-width: 300px; /* 240px */
+  padding: 10px 0px 10px 0px;
+  display: block;
+  background: #A3FFFF;
+  box-shadow: 0 0 0px 0.4em rgba(255, 255, 255, 0.5) inset;
+  border-width: 10%;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  }

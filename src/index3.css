@@ -1,0 +1,20 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Slab", sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #edf036;
+  background: -moz-linear-gradient(top, #36362e 14%, #a0a15f 25%, #d6f257 35%, #36362e 83%);
+  background: -webkit-linear-gradient(top, #36362e 14%, #a0a15f 25%, #d6f257 35%, #36362e 83%);
+  background: linear-gradient(to bottom, #36362e 14%, #a0a15f 25%, #d6f257 35%, #36362e 83%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3690f0', endColorstr='#1e69de', GradientType=0);
+}

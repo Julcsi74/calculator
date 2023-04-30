@@ -1,0 +1,20 @@
+MyCalculator:
+
+- knows basic operations (multiplication, division, addition, subtraction, plus/minus signs);
+- it is able to exponentiate and subtract roots;
+- handles decimal and thousand separation;
+- it is able to calculate percentages;
+- it has memory functions;
+- it has responsive, mobile-friendly appearance.
+
+It means plus points:
+
+-  it can be skinned, with at least three different designs and fonts: I did it, but the backchange is not perfect(I'm still looking for a solution).
+-  it can handle localization (at least hu, en): I started it, but due to lack of time I haven't reached the end yet(I'm still looking for a solution).
+
+React: 
+
+I chose this because I can break the program into parts, reusable components.
+
+P.s.: I found this test task in the spam folder at April 26, the deadline is April 30, so I uploaded what is ready up to this point.
+I would like to send the final version in a few days, if it is possible.
